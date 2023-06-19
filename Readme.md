@@ -149,5 +149,6 @@ docker compose up --build
 
 
 ## 🙇 Referências
+
 - [TABLEPLUS](https://tableplus.com/blog/2019/10/tableplus-linux-installation.html)
 - [INSOMNIA](https://insomnia.rest/download)
